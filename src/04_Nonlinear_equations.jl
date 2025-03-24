@@ -1017,7 +1017,7 @@ We summarise in a theorem:
 # ╔═╡ ac5a79d7-07e0-499e-9dab-519ae0b5f638
 md"""
 !!! info "Theorem 3"
-    Let $g : [a, b] \to \mathbb{R}$ be a $p$ times
+    Let $g : [a, b] \to \mathbb{R}$ be a $q$ times
     continuously differentiable fixed-point map
     with fixed point $x_\ast \in [a, b]$.
     If
