@@ -1683,7 +1683,7 @@ e_\text{LS} = \sum_{i=1}^{n} |q(x_i) - y_i|^2.
 ```
 Other choices are for example to employ
 -   $\max_i |q(x_i) - y_i|$, the maximal elementwise deviation
--    $\sum_{i=1}^{n+1} |q(x_i) - y_i|$, absolute deviations
+-    $\sum_{i=1}^{n} |q(x_i) - y_i|$, absolute deviations
 However, we will not consider these further.
 """
 
