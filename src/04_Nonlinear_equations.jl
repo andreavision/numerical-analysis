@@ -643,7 +643,7 @@ md"""
   That is the **actual error** $|x^{(k)} - x_\ast|$ may still be
   **way larger than the residual** $|r^{(k)}|$ and thus way larger than our
   desired accuracy $\epsilon$.
-- In contracst if $|g'(x_\ast)| = 0$ than $|r^{(k)}| < \epsilon$
+- In contrast if $|g'(x_\ast)| = 0$ than $|r^{(k)}| < \epsilon$
   is an excellent stopping criterion as $|x^{(k)} - x_\ast| = |r^{(k)}|$ as $k\to\infty$.
 """
 
